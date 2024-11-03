@@ -1,3 +1,7 @@
+@import url("//cdn.web-fonts.ge/fonts/mg-glaho-drunk/css/mg-glaho-drunk.min.css");
+@import url("//cdn.web-fonts.ge/fonts/bpg-mikheil-stefane/css/bpg-mikheil-stefane.min.css");
+@import url("//cdn.web-fonts.ge/fonts/alk-life/css/alk-life.min.css");
+
 .nav {
     font-size: 24px;
     font-weight: 700;
@@ -99,9 +103,6 @@
 }
 
 .description {
-    width: 778px;
-    font-size: 16px;
-    font-weight: 400;
     color: #4E6FAE;
     display: inline-block;
     margin-left: 50px;
