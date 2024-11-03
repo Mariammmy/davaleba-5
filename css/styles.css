@@ -1,0 +1,196 @@
+.nav {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 30px;
+    color: #8D81FF;
+    display: inline-block;
+    margin: 20px 50px;
+}
+
+.logo{
+    display: inline-block;
+    margin: 20px 50px; 
+}
+
+.container{
+    display: flex;
+}
+
+.newspage{
+    margin-left: 50px !important;
+    margin-bottom: 50px !important;
+}
+
+.active {
+    color: #4E6FAE !important;
+}
+
+.news {
+   margin: 40px 5px 10px 250px !important;
+}
+
+.details{
+    margin: 40px 5px !important;
+
+}
+
+.img {
+    display: block;
+    margin: 20px 250px;
+    Width: 1052px;
+    Height: 462px;
+
+}
+
+.linee{
+    display: inline-block;
+    margin-top: 40px;
+    height: 30px;
+}
+
+.block{
+    Width:500px;
+    height: 192px;
+    background-color: #E7E7E7;
+    margin-left: 250px;
+    display:inline-block;
+}
+
+.second{
+    margin-left: 40px !important;
+}
+
+.block h3{
+    
+    font-size: 20px;
+    font-weight: 400;
+    display: block;
+    margin: 20px;
+}
+
+.block img{
+    width: 77px;
+    margin: 10px 20px;
+    display: inline-block;
+}
+
+.block p{
+    width: 335px;
+    height: 95px;
+    display: inline-block;
+    color: #7E8898;
+    margin: 10px;
+}
+
+.date {
+    width: 50px;
+    height: 50px;
+    background-color: #5012D5;
+    font-size: 24px;
+    color: #84FF81;
+    margin-left: 50px;
+}
+
+.date p{
+    margin-left: 12px;
+    margin-top: 12px;
+    display: inline-block;
+}
+
+.description {
+    width: 778px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #4E6FAE;
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.last{
+    margin-top: 0px !important;
+}
+
+.month {
+    width: 70px;
+    height: 34px;
+    font-family: FiraGO;
+    font-size: 24px;
+    font-weight: 400;
+    color: #8D81FF;
+    margin: 10px 50px;
+}
+
+.headline {
+    width: 578px;
+    height: 34px;
+    font-size: 20px;
+    color:#4E6FAE;
+    margin:10px 50px;
+    font-weight: 700;
+}
+
+.facebook{
+    
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    margin: 50px 5px 5px 50px;
+    
+}
+
+.line{
+    width: 48px;
+    height: 50px;
+    display: inline;
+    margin-top: 80px;
+}
+
+.youtube{
+    width: 70px;
+    height: 50px;
+    display: inline-block;
+    margin:50px 5px 5px 5px;
+    
+}
+
+.contactpage{
+    width: 1555px;
+    height: 735px;
+    background-color: #E7E7E7;
+    display: flex;
+}
+
+.contactpage H1{
+    margin: 100px 10px 5px 120px;
+    color: #4E6FAE;
+    width:474px;
+    height: 34px;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+}
+
+
+.contactpage p{
+    margin-left: 120px;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+.min {
+    display: inline;
+    width: 600px !important;
+}
+
+.map{
+    display: inline-block;
+    margin-top: 100px;
+
+}
+.info{
+    
+    color: #7E8898 !important;
+    margin-left: 5px !important;
+
+}
